@@ -1,2 +1,1 @@
-# Personal-Crap-I-have
-Stuff i have made, edited, or have anything to do with.
+This skinpack that i made with a tutorial of a very awesome person, but something went wrong and i dont know what, would be appreciated if someone could download this, fix whatever is wrong, then send me another version, whether it be on github or another site, i dont care, i just want this pack fixed
