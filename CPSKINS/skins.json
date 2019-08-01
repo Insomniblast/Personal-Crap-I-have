@@ -1,0 +1,39 @@
+{
+  "geometry": "skinpacks/skins.json",
+  "skins": [
+	{
+      "localization_name": "deku",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "deku.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "aps",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "apotheosis.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "steve",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "hdsteve.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "alex",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "hdalex.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "herobrine",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "hdherobrine.png",
+      "type": "free"
+    }
+	 
+    } 
+  ],
+  "serialize_name": "Personal Skins",
+  "localization_name": "CPSKINS"
+}

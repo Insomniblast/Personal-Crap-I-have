@@ -1,0 +1,15 @@
+{
+    "format_version": 1,
+    "header": {
+        "name": "CPSKINS",
+        "uuid": "cfadb553-cfc0-4c48-9809-d73accc27d43",
+        "version": [0, 0, 1]
+    },
+    "modules": [
+        {
+            "type": "skin_pack",
+            "uuid": "a504fd20-3170-4611-9a52-99a61fa676b3",
+            "version": [0, 0, 1]
+        }
+    ]
+}
